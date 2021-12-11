@@ -1,0 +1,1 @@
+from ffantasy import ffantasy
